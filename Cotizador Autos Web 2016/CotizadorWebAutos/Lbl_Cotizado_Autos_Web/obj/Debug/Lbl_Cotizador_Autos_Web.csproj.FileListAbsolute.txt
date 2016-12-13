@@ -1,0 +1,6 @@
+C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\bin\Debug\Lbl_Cotizado_Autos_Web.dll
+C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\bin\Debug\Lbl_Cotizado_Autos_Web.pdb
+C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\bin\Debug\Oracle.DataAccess.dll
+C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\obj\Debug\Lbl_Cotizador_Autos_Web.csprojResolveAssemblyReference.cache
+C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\obj\Debug\Lbl_Cotizado_Autos_Web.dll
+C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\obj\Debug\Lbl_Cotizado_Autos_Web.pdb

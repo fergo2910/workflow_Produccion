@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotizadorWebAutos", "CotizadorWebAutos\CotizadorWebAutos.csproj", "{604CA171-4C4E-4E9B-96C6-188F74154778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lbl_Cotizador_Autos_Web", "Lbl_Cotizado_Autos_Web\Lbl_Cotizador_Autos_Web.csproj", "{B997026B-2C80-422B-9B09-5C2C976D498E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.115.14.4:8083/tfs/proyectos%20mapfre%20guatemala
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CotizadorWebAutos\\CotizadorWebAutos.csproj
+		SccProjectName1 = CotizadorWebAutos
+		SccLocalPath1 = CotizadorWebAutos
+		SccProjectUniqueName2 = Lbl_Cotizado_Autos_Web\\Lbl_Cotizador_Autos_Web.csproj
+		SccProjectName2 = Lbl_Cotizado_Autos_Web
+		SccLocalPath2 = Lbl_Cotizado_Autos_Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604CA171-4C4E-4E9B-96C6-188F74154778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604CA171-4C4E-4E9B-96C6-188F74154778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604CA171-4C4E-4E9B-96C6-188F74154778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604CA171-4C4E-4E9B-96C6-188F74154778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B997026B-2C80-422B-9B09-5C2C976D498E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B997026B-2C80-422B-9B09-5C2C976D498E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B997026B-2C80-422B-9B09-5C2C976D498E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B997026B-2C80-422B-9B09-5C2C976D498E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

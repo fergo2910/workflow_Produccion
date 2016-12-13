@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Cotizador_Web_Autos.master.cs" Inherits="CotizadorWebAutos.Master.Cotizador_Web_Autos" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <script src="../Scripts/jquery-1.9.1.js"></script>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../Recursos/footer_master.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+    <body>
+<%--<body style="overflow: scroll; background: url('../Recursos/imagenes/fondo_rojo.png') no-repeat center center fixed; -webkit-background-size: auto; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">--%>
+
+
+    <div style="background-color: #DF0000; height: 75px; text-align: left" class="">
+        <asp:Image ID="Image1" runat="server" ImageUrl="../Recursos/imagenes/encabezado_mapfre.PNG" Height="45px" />
+    </div>
+
+    <form id="form1" runat="server">
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+
+    <footer>
+        <div class="container">
+            <div style="background-color: #DF0000; height: 75px" class="form-inline">
+                <p class="pull-left" style="color: white">Seguros MAPFRE Guatemala © 2016 Todos los derechos reservados</p>
+                <asp:Image ID="Image2" runat="server" ImageUrl="../Recursos/imagenes/encabezado_mapfre.PNG" Height="45px" CssClass="pull-right" />
+            </div>
+            </div>
+        
+    </footer>
+
+
+    <script src="../Scripts/bootstrap.js"></script>
+    <script src="../Scripts/jquery-1.9.1.js"></script>
+
+</body>
+
+</html>

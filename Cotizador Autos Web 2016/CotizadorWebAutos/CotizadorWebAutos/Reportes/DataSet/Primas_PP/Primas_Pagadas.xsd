@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Primas_Pagadas" targetNamespace="http://tempuri.org/Primas_Pagadas.xsd" xmlns:mstns="http://tempuri.org/Primas_Pagadas.xsd" xmlns="http://tempuri.org/Primas_Pagadas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Primas_Pagadas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Primas_Pagadas" msprop:Generator_UserDSName="Primas_Pagadas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Primas_Pagadas" msprop:Generator_TableClassName="Primas_PagadasDataTable" msprop:Generator_TableVarName="tablePrimas_Pagadas" msprop:Generator_RowChangedName="Primas_PagadasRowChanged" msprop:Generator_TablePropName="_Primas_Pagadas" msprop:Generator_RowDeletingName="Primas_PagadasRowDeleting" msprop:Generator_RowChangingName="Primas_PagadasRowChanging" msprop:Generator_RowEvHandlerName="Primas_PagadasRowChangeEventHandler" msprop:Generator_RowDeletedName="Primas_PagadasRowDeleted" msprop:Generator_RowClassName="Primas_PagadasRow" msprop:Generator_UserTableName="Primas_Pagadas" msprop:Generator_RowEvArgName="Primas_PagadasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="poliza" msprop:Generator_ColumnVarNameInTable="columnpoliza" msprop:Generator_ColumnPropNameInRow="poliza" msprop:Generator_ColumnPropNameInTable="polizaColumn" msprop:Generator_UserColumnName="poliza" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="giros" msprop:Generator_ColumnVarNameInTable="columngiros" msprop:Generator_ColumnPropNameInRow="giros" msprop:Generator_ColumnPropNameInTable="girosColumn" msprop:Generator_UserColumnName="giros" type="xs:int" minOccurs="0" />
+              <xs:element name="idefact" msprop:Generator_ColumnVarNameInTable="columnidefact" msprop:Generator_ColumnPropNameInRow="idefact" msprop:Generator_ColumnPropNameInTable="idefactColumn" msprop:Generator_UserColumnName="idefact" type="xs:int" minOccurs="0" />
+              <xs:element name="codfact" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columncodfact" msprop:Generator_ColumnPropNameInRow="codfact" msprop:Generator_ColumnPropNameInTable="codfactColumn" msprop:Generator_UserColumnName="codfact" type="xs:string" minOccurs="0" />
+              <xs:element name="numfact" msprop:Generator_ColumnVarNameInTable="columnnumfact" msprop:Generator_ColumnPropNameInRow="numfact" msprop:Generator_ColumnPropNameInTable="numfactColumn" msprop:Generator_UserColumnName="numfact" type="xs:int" minOccurs="0" />
+              <xs:element name="fecvencfact" msprop:Generator_ColumnVarNameInTable="columnfecvencfact" msprop:Generator_ColumnPropNameInRow="fecvencfact" msprop:Generator_ColumnPropNameInTable="fecvencfactColumn" msprop:Generator_UserColumnName="fecvencfact" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="fecstsreling" msprop:Generator_ColumnVarNameInTable="columnfecstsreling" msprop:Generator_ColumnPropNameInRow="fecstsreling" msprop:Generator_ColumnPropNameInTable="fecstsrelingColumn" msprop:Generator_UserColumnName="fecstsreling" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="codmoneda" msprop:Generator_ColumnVarNameInTable="columncodmoneda" msprop:Generator_ColumnPropNameInRow="codmoneda" msprop:Generator_ColumnPropNameInTable="codmonedaColumn" msprop:Generator_UserColumnName="codmoneda" type="xs:string" minOccurs="0" />
+              <xs:element name="mtofactlocal" msprop:Generator_ColumnVarNameInTable="columnmtofactlocal" msprop:Generator_ColumnPropNameInRow="mtofactlocal" msprop:Generator_ColumnPropNameInTable="mtofactlocalColumn" msprop:Generator_UserColumnName="mtofactlocal" type="xs:int" minOccurs="0" />
+              <xs:element name="docpago" msprop:Generator_ColumnVarNameInTable="columndocpago" msprop:Generator_ColumnPropNameInRow="docpago" msprop:Generator_ColumnPropNameInTable="docpagoColumn" msprop:Generator_UserColumnName="docpago" type="xs:string" minOccurs="0" />
+              <xs:element name="numrefdoc" msprop:Generator_ColumnVarNameInTable="columnnumrefdoc" msprop:Generator_ColumnPropNameInRow="numrefdoc" msprop:Generator_ColumnPropNameInTable="numrefdocColumn" msprop:Generator_UserColumnName="numrefdoc" type="xs:string" minOccurs="0" />
+              <xs:element name="entfinan" msprop:Generator_ColumnVarNameInTable="columnentfinan" msprop:Generator_ColumnPropNameInRow="entfinan" msprop:Generator_ColumnPropNameInTable="entfinanColumn" msprop:Generator_UserColumnName="entfinan" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
