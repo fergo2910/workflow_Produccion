@@ -1,5 +1,0 @@
-C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\bin\Release\Lbl_Cotizado_Autos_Web.dll
-C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\bin\Release\Lbl_Cotizado_Autos_Web.pdb
-C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\bin\Release\Oracle.DataAccess.dll
-C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\obj\Release\Lbl_Cotizado_Autos_Web.dll
-C:\Users\araujo2\Documents\VersionesTFS\Cotizador Autos Web 2016\CotizadorWebAutos\Lbl_Cotizado_Autos_Web\obj\Release\Lbl_Cotizado_Autos_Web.pdb
